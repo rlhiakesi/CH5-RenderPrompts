@@ -1,0 +1,58 @@
+Render CH5-P004 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH5-004-art.png, IAKESI-CH5-004-lettering.png, and IAKESI-CH5-004-text.txt.
+ARTWORK FILE — IAKESI-CH5-004-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH5-004-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH5-004-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Zora-cultural-development-specification.txt, Assets/Recurring-Population-and-Costume-Sheet.png, Assets/Royal-Assembly-Chamber-production-sheet.png, Assets/Zora-mana-effects-sheet.png, Assets/Jeremiel-character-sheet.png, Assets/Jeremiel-expression-sheet.png, Assets/Jeremiel-canonical-character-specification.txt, Assets/Zora-Nyas-writing-systems-sheet.png, Assets/Zora-Nyas-writing-systems-renderer-spec.txt, Assets/Zoran_Language_and_script.docx, Assets/Light-Healing-and-Illusion-Training-Technical-Sheet.png, Assets/Jeremiel-Elderly-Frail-Character-Sheet.png.
+Canonical character identity:
+- Jeremiel: BINDING VISUAL IDENTITY: match the canonical character reference images exactly for face, proportions, hair geometry, ears, body type, colors, and the costume state specified here. Use these images for DESIGN/IDENTITY, not for rendering style; translate the design into the binding page rendering style: Assets/Jeremiel-Elderly-Frail-Character-Sheet.png, Assets/Jeremiel-character-sheet.png apparent age: Early sixties; hair: White, short-to-medium length, loosely layered and slightly tousled; eyes: Warm gray to amber-brown; never glowing unless a script explicitly describes a temporary magical effect; build: Lean, slightly angular, and naturally dignified; neither frail nor muscular; face: AND HEAD; ears: Human ears only; never pointed or elven; skin: Natural warm complexion appropriate to the character sheet Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Print-production geometry:
+- AI RENDER-SAFE TARGET: x=111..850, y=111..1424. Aim all critical content inside this smaller target.
+- Use the attached visual composition guide as the PRIMARY spatial reference when present. Never reproduce that guide in finished artwork.
+- SAFE CONTENT RECTANGLE — BINDING: x=63..898, y=63..1472; page side=verso; binding side=right.
+- Production-area geometry is invisible but BINDING composition geometry. Do NOT draw trim/safe/bleed guides in the finished page.
+- Every complete speech-balloon body, thought-balloon body, narration box, caption, face, and continuity-critical prop must remain wholly inside the safe-content rectangle. Balloon/thought tails may extend toward speakers when necessary. Page folios are prohibited.
+- Background and noncritical artwork may extend outside the safe rectangle through trim/bleed.
+- Before rendering, preflight critical-content placement. If any critical body would cross the safe rectangle, reflow/reposition it first; automatic placement does not waive this requirement.
+
+Panel 1:
+- Panel direction (not printed text): Manga style.
+- Setting: The board advances to a simulated red eye. The projected figure trembles as mana leaks from the body in tiny blue arcs. Several physicians watch the safe volunteer while Jeremiel explains the projection. No one is subjected to the dangerous stage.
+- Camera: 24–35mm establishing frame; establish geography and staging.
+- Scene: The board advances to a simulated red eye. The projected figure trembles as mana leaks from the body in tiny blue arcs. Several physicians watch the safe volunteer while Jeremiel explains the projection. No one is subjected to the dangerous stage.
+- Characters: Jeremiel.
+- CH5-P004-S1-D1: jeremiel, speech balloon (one speaker tail): “This...”
+- CH5-P004-S1-D2: jeremiel, speech balloon (one speaker tail): “...is danger.”
+
+Panel 2:
+- Panel direction (not printed text): Manga style.
+- Setting: The board shows the physical symptoms of red-stage overload. Heavy breathing. Trembling and profuse sweat.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: The board shows the physical symptoms of red-stage overload. Heavy breathing. Trembling and profuse sweat.
+
+Panel 3:
+- Panel direction (not printed text): Manga style.
+- Setting: Jeremiel points to the simulated warning signs. The volunteer remains safely beside the physicians, his eyes returning naturally toward blue.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: Jeremiel points to the simulated warning signs. The volunteer remains safely beside the physicians, his eyes returning naturally toward blue.
+- Characters: Jeremiel.
+- CH5-P004-S3-D1: jeremiel, speech balloon (one speaker tail): “Beyond yellow, the risk rises sharply.”
+
+Panel 4:
+- Panel direction (not printed text): Manga style.
+- Setting: The magical board changes one final time. A white eye. No iris. No pupil. The image is unsettling.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: The magical board changes one final time. A white eye. No iris. No pupil. The image is unsettling.
+- Characters: Jeremiel.
+- CH5-P004-S4-D1: jeremiel, speech balloon (one speaker tail): “The Goddess warned of one final stage.”
+
+Panel 5:
+- Panel direction (not printed text): Manga style.
+- Setting: Close-up of the board. English Translation: WHITE Critical mana overload. Death is imminent. Immediate healing is required. Silence fills the chamber.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: Close-up of the board. English Translation: WHITE Critical mana overload. Death is imminent. Immediate healing is required. Silence fills the chamber.
+
+Story lettering rule: use exactly the 4 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH5-004-art.png and IAKESI-CH5-004-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.

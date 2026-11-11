@@ -1,0 +1,51 @@
+Render CH5-P016 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH5-016-art.png, IAKESI-CH5-016-lettering.png, and IAKESI-CH5-016-text.txt.
+ARTWORK FILE — IAKESI-CH5-016-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH5-016-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH5-016-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Zora-cultural-development-specification.txt, Assets/Recurring-Population-and-Costume-Sheet.png, Assets/Zora-mana-effects-sheet.png, Assets/Zoran-mana-crystals-production-sheet.png, Assets/Zoran-research-laboratory-production-sheet.png, Assets/Transmutation-Scientific-Method-Technical-Sheet.png, Assets/Six-Schools-symbols-and-diagrams-production-sheet.png.
+Print-production geometry:
+- AI RENDER-SAFE TARGET: x=111..850, y=111..1424. Aim all critical content inside this smaller target.
+- Use the attached visual composition guide as the PRIMARY spatial reference when present. Never reproduce that guide in finished artwork.
+- SAFE CONTENT RECTANGLE — BINDING: x=63..898, y=63..1472; page side=verso; binding side=right.
+- Production-area geometry is invisible but BINDING composition geometry. Do NOT draw trim/safe/bleed guides in the finished page.
+- Every complete speech-balloon body, thought-balloon body, narration box, caption, face, and continuity-critical prop must remain wholly inside the safe-content rectangle. Balloon/thought tails may extend toward speakers when necessary. Page folios are prohibited.
+- Background and noncritical artwork may extend outside the safe rectangle through trim/bleed.
+- Before rendering, preflight critical-content placement. If any critical body would cross the safe rectangle, reflow/reposition it first; automatic placement does not waive this requirement.
+
+Panel 1:
+- Panel direction (not printed text): Manga style.
+- Setting: Back in the workshop several days later. A second alchemist places an identical gold bead beside a calibrated mana crystal.
+- Camera: INSERT SHOT of the identical gold bead and calibrated mana crystal framed together before conversion.
+- Scene: Back in the workshop several days later. A second alchemist places an identical gold bead beside a calibrated mana crystal.
+
+Panel 2:
+- Panel direction (not printed text): Manga style.
+- Panel direction (not printed text): The pulse is mana luminescence produced by the conversion process, not bulk matter being converted into energy.
+- Setting: Dark mana contracts tightly around the bead. A single blue-violet pulse illuminates the room like a heartbeat. Visual note: The pulse is mana luminescence produced by the conversion process, not bulk matter being converted into energy.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: Dark mana contracts tightly around the bead. A single blue-violet pulse illuminates the room like a heartbeat. Visual note: The pulse is mana luminescence produced by the conversion process, not bulk matter being converted into energy.
+
+Panel 3:
+- Panel direction (not printed text): Manga style.
+- Setting: The bead becomes lead. The mana crystal has dimmed only slightly.
+- Camera: MATCHING INSERT SHOT of the transformed lead bead and only slightly dimmed crystal.
+- Scene: The bead becomes lead. The mana crystal has dimmed only slightly.
+
+Panel 4:
+- Panel direction (not printed text): Manga style.
+- Setting: The first alchemist compares the crystal with the nearly depleted crystals from his own attempt.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: The first alchemist compares the crystal with the nearly depleted crystals from his own attempt.
+
+Panel 5:
+- Panel direction (not printed text): Manga style.
+- Setting: The researchers stare at the second alchemist, then at the measurements they expected to match the first experiment.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: The researchers stare at the second alchemist, then at the measurements they expected to match the first experiment.
+- CH5-P016-S5-D1: researcher, speech balloon (one speaker tail): “Our observation does not match our expectation.”
+
+Story lettering rule: use exactly the 1 panel/story lettered item listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH5-016-art.png and IAKESI-CH5-016-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.

@@ -1,0 +1,72 @@
+Render CH5-P015 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH5-015-art.png, IAKESI-CH5-015-lettering.png, and IAKESI-CH5-015-text.txt.
+ARTWORK FILE — IAKESI-CH5-015-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH5-015-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH5-015-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Rendering style:
+- RENDERING STYLE — BINDING: Domain of the Gods near-photorealistic illustration. Target approximately 70% photorealistic rendering and 30% manga influence.
+- Character sheets and production sheets define identity, proportions, hair geometry, costume construction, colors, props, and environment design ONLY. Do NOT copy their anime/manga/production-sheet drawing style into the finished page.
+- Render canonical character-sheet designs as physically convincing people: dimensional facial anatomy, natural skin shading and texture, realistic eyes within moderately manga-influenced facial aesthetics, individually modeled hair strands/curl masses, physically plausible fabric folds and translucency, convincing material response, volumetric light, photographic depth, and realistic integration into the environment.
+- Avoid polished-anime, cel-shaded, flat digital-illustration, clean line-art, plastic-smooth skin, simplified hair masses, or generic anime-background rendering. The result should feel materially real despite the impossible setting.
+- Authority order for appearance: canonical character/location sheets and specifications control WHAT is depicted; approved rendered-page continuity controls established rendered appearance and finish; this DOTG style rule controls HOW all canonical designs are rendered.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Zora-cultural-development-specification.txt, Assets/Recurring-Population-and-Costume-Sheet.png, Assets/Zoran-research-laboratory-production-sheet.png, Assets/Transmutation-Scientific-Method-Technical-Sheet.png, Assets/WOA-canonical-production-specification.txt, Assets/WOA-production-sheet.png, Assets/WOA-production-sheet-plus-map.png, Assets/WOA-observation-field-states-sheet.png, Assets/WOA-time-compression-display-specification.txt, Assets/Nyssara-character-sheet.png, Assets/Nyssara-expression-sheet.png, Assets/Nyssara-canonical-character-specification.txt, Assets/Zorna-character-sheet.png, Assets/Zorna-expression-sheet.png, Assets/Zorna-canonical-character-specification.txt, Assets/Terra-character-sheet.png, Assets/Terra-expression-sheet.png, Assets/Terra-canonical-character-specification.txt.
+Canonical location constraints — binding:
+- WOA-canonical-production-specification.txt: 1. The viewscreen is magical and perfectly 2-D. 2. The viewscreen has no physical thickness. 3. The viewscreen floats in mid-air. 4. The viewscreen has no physical support apparatus. 5. Viewed exactly edge-on, the viewscreen disappears. 6. No dedicated physical side profile exists. 7. The screen remains a large horizontal rectangle. 8. Screen proportions remain consistent. 9. The luminous border remains blue. 10. The border is magical, not physical. 11. Screen content may change freely. 12. No permanent UI or interface overlays appear. 13. The immediate floor treatment remains circular. 14. The floor uses simple luminous blue concentric circles. 15. No compass symbol appears on the floor. 16. No starburst appears on the floor. 17. No runes or writing appear on the floor. 18. No central emblem appears on the floor. 19. The center may contain only a simple blue glow. 20. No mechanical projector or control apparatus appears. 21. The larger WOA architecture may vary. 22. The viewscreen and immediate floor/platform remain the persistent continuity island.
+- Do not replace the canonical location with a generic fantasy, celestial, science-fiction, temple, observatory, or palace environment when those elements conflict with the binding production sheet/specification.
+- The canonical location production sheet controls geometry, objects, layout, colors, and persistent visual identity only. Do NOT imitate the production-sheet illustration style; render the location in the binding near-photorealistic DOTG style.
+Canonical character identity:
+- Nyssara: BINDING VISUAL IDENTITY: match the canonical character reference images exactly for face, proportions, hair geometry, ears, body type, colors, and the costume state specified here. Use these images for DESIGN/IDENTITY, not for rendering style; translate the design into the binding page rendering style: Assets/Nyssara-character-sheet.png apparent age: 30. This is a visual age target only; Nyssara is actually; hair: Black, relatively straight, and smooth. The main rear hair extends; eyes: Violet. Her violet eyes are a major identifying feature and must; build: Petite adult build. Slender with natural adult curves and a modest; face: Adult feminine facial proportions appropriate to an apparent age of; ears: Distinctly elven ears. Moderately long and elegantly tapered,; skin: Fair binding hairstyle: Black, relatively straight, and smooth. The main rear hair extends approximately to the shoulder blades. Nyssara has distinct bangs across the forehead. The bangs are a required identifying feature and must not disappear. Two front hair sections fall in front of the ears and terminate approximately at chin level. Hair behind the ears continues to the shoulder blades. The hairstyle keeps the elven ears exposed. No braids, hair ornaments, ribbons, tiara, or crown. Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Zorna: BINDING VISUAL IDENTITY: match the canonical character reference images exactly for face, proportions, hair geometry, ears, body type, colors, and the costume state specified here. Use these images for DESIGN/IDENTITY, not for rendering style; translate the design into the binding page rendering style: Assets/Zorna-character-sheet.png apparent age: Young adult; hair: Platinum blonde. The platinum-blonde color is immutable and; build: Tall, graceful, athletic/slender. Feminine figure with a moderate; face: Refined oval face with a relatively narrow jaw. Mature and; ears: Normal human-shaped ears. Neither pointed nor elongated. Never; skin: Fair binding hairstyle: Platinum blonde. The platinum-blonde color is immutable and plot-critical. Her hair is extremely long, extending approximately to the thighs or upper calves. Its defining feature is an abundance of large, tight corkscrew/drill curls. The curls create a distinctive, high-volume silhouette from the front, side, and back. Some hair may be pulled back from the face while the majority falls freely. The hairstyle must remain recognizably Zorna’s and must not degrade into ordinary straight, loosely wavy, or generic long blonde hair. Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+- Terra: BINDING VISUAL IDENTITY: match the canonical character reference images exactly for face, proportions, hair geometry, ears, body type, colors, and the costume state specified here. Use these images for DESIGN/IDENTITY, not for rendering style; translate the design into the binding page rendering style: Assets/Terra-character-sheet.png apparent age: 45; hair: Auburn/copper; hair part: Terra has a strong side part rather than a center part; eyes: Moss green / warm olive green; build: Mature, curvaceous adult build; hair ornament: Terra wears one small living-leaf hair ornament; face: An attractive, clearly mature woman of approximately 45 apparent binding hairstyle: Auburn/copper. Terra has very thick, voluminous “big hair” composed of large loose waves and curls. The hair is slightly shorter than shoulder length. It should create a broad, rounded, high-volume silhouette without becoming long flowing hair. Terra does not have Zorna’s drill/corkscrew curls. Terra’s hair does not use Nyssara’s straight-hair silhouette. Hair Part Terra has a strong side part rather than a center part. A large swept wave crosses the forehead from the side part, creating an asymmetrical front silhouette. Do not convert Terra’s hairstyle into a center part resembling Zorna. Hair Ornament Terra wears one small living-leaf hair ornament.… Do not substitute a different face, apparent age, hair color, hairstyle, ear type, body type, or costume.
+Print-production geometry:
+- AI RENDER-SAFE TARGET: x=173..912, y=111..1424. Aim all critical content inside this smaller target.
+- Use the attached visual composition guide as the PRIMARY spatial reference when present. Never reproduce that guide in finished artwork.
+- SAFE CONTENT RECTANGLE — BINDING: x=125..960, y=63..1472; page side=recto; binding side=left.
+- Production-area geometry is invisible but BINDING composition geometry. Do NOT draw trim/safe/bleed guides in the finished page.
+- Every complete speech-balloon body, thought-balloon body, narration box, caption, face, and continuity-critical prop must remain wholly inside the safe-content rectangle. Balloon/thought tails may extend toward speakers when necessary. Page folios are prohibited.
+- Background and noncritical artwork may extend outside the safe rectangle through trim/bleed.
+- Before rendering, preflight critical-content placement. If any critical body would cross the safe rectangle, reflow/reposition it first; automatic placement does not waive this requirement.
+
+Panel 1:
+- Panel direction (not printed text): Manga style for the imagined Zoran flashback.
+- Setting: Imaginary flashback. A beautiful Zoran boulevard paved entirely with gold bricks.
+- Camera: 24–35mm establishing frame; establish geography and staging.
+- Scene: Imaginary flashback. A beautiful Zoran boulevard paved entirely with gold bricks.
+- Blocking: Panels 1–2 are a separate imagined flashback and do not alter the WOA staging. In Panels 3–5, Nyssara remains on the left, Zorna remains on the right, and Terra occupies the center background. Nyssara and Zorna remain the outside characters when speaking.
+
+Panel 2:
+- Panel direction (not printed text): Manga style for the imagined Zoran flashback.
+- Setting: Children casually run across it. A cart wheel splashes through a muddy puddle over the gold.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: Children casually run across it. A cart wheel splashes through a muddy puddle over the gold.
+- Blocking: Panels 1–2 are a separate imagined flashback and do not alter the WOA staging. In Panels 3–5, Nyssara remains on the left, Zorna remains on the right, and Terra occupies the center background. Nyssara and Zorna remain the outside characters when speaking.
+
+Panel 3:
+- Panel direction (not printed text): 70/30 DOTG/WOA style.
+- Setting: Back to the World Observation Area. Nyssara rubs her forehead.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: Back to the World Observation Area. Nyssara rubs her forehead.
+- Blocking: Panels 1–2 are a separate imagined flashback and do not alter the WOA staging. In Panels 3–5, Nyssara remains on the left, Zorna remains on the right, and Terra occupies the center background. Nyssara and Zorna remain the outside characters when speaking.
+- Characters: Nyssara.
+
+Panel 4:
+- Panel direction (not printed text): 70/30 DOTG/WOA style.
+- Setting: World Observation Area.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Blocking: Panels 1–2 are a separate imagined flashback and do not alter the WOA staging. In Panels 3–5, Nyssara remains on the left, Zorna remains on the right, and Terra occupies the center background. Nyssara and Zorna remain the outside characters when speaking.
+- Characters: Nyssara.
+- CH5-P015-S4-D1: nyssara, speech balloon (one speaker tail): “Do you have any idea...”
+
+Panel 5:
+- Panel direction (not printed text): 70/30 DOTG/WOA style.
+- Setting: Zorna laughs. Terra quietly smiles in the background.
+- Camera: 50mm narrative framing; maintain readable action, eyelines, and lettering space.
+- Scene: Zorna laughs. Terra quietly smiles in the background.
+- Blocking: Panels 1–2 are a separate imagined flashback and do not alter the WOA staging. In Panels 3–5, Nyssara remains on the left, Zorna remains on the right, and Terra occupies the center background. Nyssara and Zorna remain the outside characters when speaking.
+- Characters: Zorna; Nyssara; Terra.
+- CH5-P015-S5-D1: nyssara, speech balloon (one speaker tail): “...how angry every Nyssarian economist would be if they heard that?”
+
+Story lettering rule: use exactly the 2 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH5-015-art.png and IAKESI-CH5-015-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
